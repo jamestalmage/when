@@ -1,0 +1,14 @@
+{
+  "name": "when",
+  "repo": "jamestalmage/when",
+  "description": "A lightweight Promises/A+ and when() implementation, plus other async goodies.",
+  "version": "0.0.1",
+  "keywords": ["Promises/A+", "promises-aplus", "promise", "promises", "deferred", "deferreds", "when", "async", "asynchronous", "cujo"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "when.js",
+  "scripts": [
+    "when.js"
+  ]
+}
